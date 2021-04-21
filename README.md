@@ -3,7 +3,7 @@ This repository contains the code and the explanation of our approach for buildi
 
 ### [Kaggle Competition](https://www.kaggle.com/c/cassandra-udyam21)
 
-### [Approach In Detail](https://docs.google.com/presentation/d/1WixdK9DOvoyJOs2eGVcu-dKVSAS83WzqBok9wT54ugM/edit#slide=id.g35f391192_00)
+### [Approach In Detail](https://docs.google.com/presentation/d/1WixdK9DOvoyJOs2eGVcu-dKVSAS83WzqBok9wT54ugM/edit?usp=sharing)
 
 ### [Code](https://github.com/Terabyte17/Cassandra-Udyam-Defaulter-Prediction/blob/main/Cassandra%20Ctrl%20Shift%20Intelligence.ipynb)
 
